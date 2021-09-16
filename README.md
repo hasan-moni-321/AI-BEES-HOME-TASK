@@ -13,13 +13,13 @@ BERT for generating Name Entity. Those entity will help for generating commment 
 
 ## Example of Generated Comments from text based on anme entity
 
-##### Text 
-
+##### Original Text 
+'Iranian officials say they expect to get access to sealed sensitive parts of the plant Wednesday , after an IAEA surveillance system begins functioning .'
 
 ##### Generated Name Entity
 Iranian officials , surveillance system
 
-##### Generated 5 Comments from one text  
+##### Generated 5 Comments from original text based on generated name entity  
 1. 'Iranian officials, surveillance system and other services have been infiltrated or used for a variety of cyber activities to compromise the U.S. and to influence'
 2. 'Iranian officials, surveillance system experts and technology specialists say that Iran "does not have a nuclear weapon right now." The Iranian claims were repeated by the White House on Tuesday, as the president sought to'
 3. "Iranian officials, surveillance system that allowed it to monitor emails of thousands of Iranian citizens, and Iranian bank's ability to launder millions of dollars via its secret connections with rogue entities.\n\n\nOn Monday, President Barack Obama made the most dramatic U"
